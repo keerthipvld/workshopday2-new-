@@ -17,3 +17,10 @@ this repo is practice of workshop session 2
   * ITEM2
   
   * ITEM3
+  
+1. LIST 2
+   1. HAHA 
+  
+   2. HEHE
+   
+   3. HUHU
