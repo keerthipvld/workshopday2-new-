@@ -11,9 +11,9 @@ this repo is practice of workshop session 2
 ***NAMASTHEY***
 
 * LIST1
-* 
-  *ITEM1
+
+  * ITEM1
   
-  *ITEM2
+  * ITEM2
   
-  *ITEM3
+  * ITEM3
